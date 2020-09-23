@@ -1,0 +1,31 @@
+.infoBox {
+  flex: 1;
+}
+
+.infoBox:not(:last-child) {
+  margin-right: 15px;
+}
+
+.infoBox__title {
+  font-weight: 700 !important;
+}
+
+.infoBox__total {
+  font-weight: 700 !important;
+}
+
+.infoBox:hover {
+  cursor: pointer;
+}
+
+.infoBox-dark {
+  background-color: #8383835b !important;
+}
+
+.infoBox-cases-dark {
+  color: white !important;
+}
+
+.infoBox-total-dark {
+  color: white !important;
+}

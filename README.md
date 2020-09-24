@@ -6,6 +6,12 @@
 
 Link: https://covid-19-new.herokuapp.com/
 
+<img src="https://res.cloudinary.com/shatadrucld/image/upload/v1600922018/covid_tracker_iboh6h.png"></img>
+
+<h3>Dark mode</h3>
+
+<img src="https://res.cloudinary.com/shatadrucld/image/upload/v1600922018/covid_tracker_dark_dwzufc.png"></img>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

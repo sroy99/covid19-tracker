@@ -1,6 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>Covid-19 Tracker</h1> 
+
+<h3>Created with React,Leaflet for the map and Chart.js for the graphiacal representaion of coronavirus cases</h3>
+
+<h3>API used : disease.sh</h3>
 
 Link: https://covid-19-new.herokuapp.com/
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
